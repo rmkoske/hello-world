@@ -1,6 +1,6 @@
-The Wrong Way Corrigan Project is to fulfill the first Basic Front End Development requirement at FreeCodeCamp.com.
+The Wrong Way Corrigan Project is to fulfill the first Basic Front End Development requirement at FreeCodeCamp.com.  Created as a Pen at CodePen.io. You can find this one at http://codepen.io/rmkoske/pen/KzgwKL.
 
-Currently in-progress at: http://codepen.io/rmkoske/full/grPaeZ/
+ Built with a Bootstrap grid/row system to create the two columns.
 
 The requirements as listed:
 
